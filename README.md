@@ -22,7 +22,7 @@ This is an AI-powered chatbot specifically designed and developed to automate cu
 
 ### 📈 Current Status
 * [x] Project Idea & Conceptualization
-* [ ] Creating the 200+ Question-Answer Dataset
-* [ ] Writing Python Backend Code
-* [ ] Integrating AI API
-* [ ] Deploying the Chatbot
+* [x] Creating the 200+ Question-Answer Dataset
+* [x] Writing Python Backend Code
+* [x] Integrating AI API
+* [x] Deploying the Chatbot
